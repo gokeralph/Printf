@@ -46,4 +46,4 @@ int printf_handler(const char *fmtt, int *din, va_list list, char letter[],
 		return (unknown_len);
 	}
 	return (printed_characters);
-
+}
